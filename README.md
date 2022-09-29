@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+<strong>Site URL » </strong>
+    <a href="https://sushant0802.github.io/word_count/"> sushant0802.github.io/word_count</a>
+    
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
